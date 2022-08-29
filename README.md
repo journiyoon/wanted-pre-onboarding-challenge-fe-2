@@ -1,6 +1,6 @@
 ## 배포 페이지
 
-[JSDoc TODO](https://journiyoon.github.io/wanted-pre-onboarding-challenge-fe-2)
+[JSDoc TODO](https://journiyoon.github.io/wanted-pre-onboarding-challenge-fe-2/src/out/global.html)
 
 ## 챌린지 과제 가이드
 
