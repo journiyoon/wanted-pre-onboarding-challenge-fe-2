@@ -1,0 +1,28 @@
+{
+  "name": "wanted-pre-onboarding-challenge-fe-2",
+  "version": "1.0.0",
+  "description": "프리온보딩 프론트엔드 챌린지 2차 사전과제",
+  "main": "index.js",
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/journiyoon/wanted-pre-onboarding-challenge-fe-2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/journiyoon/wanted-pre-onboarding-challenge-fe-2/issues"
+  },
+  "homepage": "https://journiyoon.github.io/wanted-pre-onboarding-challenge-fe-2",
+  "dependencies": {
+    "jsdoc": "^3.6.11"
+  },
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
